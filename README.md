@@ -1,18 +1,45 @@
 <div align="center">
+
+  <!-- Titre principal -->
   <h1>Hi, I'm Aurélien, 26 years old</h1>
-  <br><br>
+
+  <!-- Sous-titre -->
   <h3>Searching for a Work Placement 💻</h3> 
-  <br><br>
+
+  <!-- Skillicons en forme de pyramide -->
   <p>
     <a href="https://skillicons.dev">
-      <img style="margin-top: 200px;" src="https://skillicons.dev/icons?i=c,html,css,php,mysql,js" />
+      <img src="https://skillicons.dev/icons?i=c" />
     </a>
   </p>
-  <br><br>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html" />
+      <img src="https://skillicons.dev/icons?i=css" />
+    </a>
+  </p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php" />
+      <img src="https://skillicons.dev/icons?i=mysql" />
+      <img src="https://skillicons.dev/icons?i=js" />
+    </a>
+  </p>
+
+  <!-- Section "About Me" -->
   <h1>About Me</h1>
-  I am currently going through a career change.<br>
-  Hoobies: 
-  🐱🐍
-  🏍️
-  🎮📽️
+  <p>I am currently going through a career change and looking for a new opportunity.</p>
+
+  <!-- Hobbies -->
+  <h3>Hobbies:</h3>
+  <p>
+    🐱 🐍 <br>
+    🏍️ <br>
+    🎮 📽️
+  </p>
+
 </div>
+
+
+</div>
+
