@@ -1,10 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi, I'm Aurélien, 26 years old</h1>
 
-<!--
-**Ytrezox/Ytrezox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>Searching for a Work Placement 💻</h3>  
+  <p style="padding-top: 50px;">
+    <a href="https://skillicons.dev">
+      <img style="margin-top: 200px;" src="https://skillicons.dev/icons?i=c,html,css,php,mysql,js" />
+    </a>
+  </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Alilu 
-- 🌱 I’m currently learning PHP SQL
-
+  <h1>About Me</h1>
+  I am currently going through a career change. I am passionate about video games, motorcycles, as well as TV series and movies.
+</div>
