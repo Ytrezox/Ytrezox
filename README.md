@@ -1,12 +1,7 @@
 <div align="center">
-
-  <!-- Titre principal -->
   <h1>Hi, I'm Aurélien, 26 years old</h1>
-
-  <!-- Sous-titre -->
   <h3>Searching for a Work Placement 💻</h3> 
 
-  <!-- Skillicons en forme de pyramide -->
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c" />
@@ -26,7 +21,6 @@
     </a>
   </p>
 
-  <!-- Section "About Me" -->
   <h1>About Me</h1>
   <p>I am currently going through a career change and looking for a new opportunity.</p>
 
